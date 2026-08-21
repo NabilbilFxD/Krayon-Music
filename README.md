@@ -50,35 +50,31 @@ C++         █████                               10.5%
 CMake       ████                                 8.1%
 Swift       █                                    1.1%
 HTML/C      █                                    1.2%
+```
+---
+## Installation
 
-Frontend & App Logic: Dart / Flutter
+### Android (APK)
 
-Audio Engine & System Binding: C++ / C
+1. Open the **[Releases](https://github.com/NabilbilFxD/Krayon-Music/releases)** page on this repository.
+2. Download the latest `.apk` asset file under the **Assets** section.
+3. Open the downloaded file on your device and confirm the installation.
 
-Build System: CMake / Gradle
+---
 
-Platform Layer: Swift (iOS) & Kotlin/Java (Android)
+## Developer Setup
 
-Installation
-Android (APK)
-Open the Releases page on this repository.
-
-Download the latest .apk asset file.
-
-Open the downloaded file on your device and confirm the installation.
-
-Developer Setup
 To build and run the source code locally:
 
-Prerequisites
-Flutter SDK (stable channel)
+### Prerequisites
 
-Android Studio / Android SDK (for Android build tools)
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) (`stable` channel)
+- Android Studio / Android SDK
+- [Git](https://git-scm.com/)
 
-Git
+### Commands
 
-Steps
-Bash
+```bash
 # Clone the project repository
 git clone [https://github.com/NabilbilFxD/Krayon-Music.git](https://github.com/NabilbilFxD/Krayon-Music.git)
 
@@ -90,10 +86,21 @@ flutter pub get
 
 # Execute the application on a connected device/emulator
 flutter run
-To output a release build:
+```
+---
+## Creator
+<table>
+<tr>
+</td>
+<td align="center">
+<a href="https://github.com/NabilbilFxD">
+<img src="https://github.com/NabilbilFxD.png" width="80" style="border-radius:50%"><br>
+<b>NabilbilFxD</b>
+</a>
+</td>
+</tr>
+</table>
 
-Bash
-flutter build apk --release
-Maintainer
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute this software. See the [LICENSE](LICENSE) file for details.
