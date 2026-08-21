@@ -1,4 +1,6 @@
-# Krayon Music
+<div align="center">
+
+<h1>🎵 Krayon Music</h1>
 
 <p align="center">
   <b>An open-source, zero-ad audio streaming application built for high-fidelity sound.</b>
