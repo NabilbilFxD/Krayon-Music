@@ -1,28 +1,18 @@
+<h1 align="center">🎵 Krayon Music</h1>
+
 <div align="center">
 
-<h1>🎵 Krayon Music</h1>
-```
----
-<p align="center">
-  <b>An open-source, zero-ad audio streaming application built for high-fidelity sound.</b>
-</p>
+**An open-source, zero-ad audio streaming application built for high-fidelity sound.**
 
-<p align="center">
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"></a>
-  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Language-Dart_79%25-0175C2?logo=dart&logoColor=white" alt="Dart"></a>
-  <a href="https://isocpp.org"><img src="https://img.shields.io/badge/Core-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="https://github.com/NabilbilFxD/Krayon-Music/releases"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" alt="Android"></a>
-  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-</p>
+[![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Language-Dart_79%25-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![C++](https://img.shields.io/badge/Core-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://github.com/NabilbilFxD/Krayon-Music/releases)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 
-<p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#core-features">Core Features</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#developer-setup">Developer Setup</a> •
-  <a href="#maintainer">Maintainer</a>
-</p>
+[Overview](#overview) • [Core Features](#core-features) • [Tech Stack](#tech-stack) • [Installation](#installation) • [Developer Setup](#developer-setup) • [Maintainer](#maintainer)
+
+</div>
 
 ---
 
@@ -91,18 +81,22 @@ flutter pub get
 flutter run
 ```
 ---
-## Creator
-<table>
-<tr>
-</td>
-<td align="center">
-<a href="https://github.com/NabilbilFxD">
-<img src="https://github.com/NabilbilFxD.png" width="80" style="border-radius:50%"><br>
-<b>NabilbilFxD</b>
-</a>
-</td>
-</tr>
+<div align="center">
+
+## Maintainer
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NabilbilFxD">
+        <img src="https://github.com/NabilbilFxD.png" width="100px;" style="border-radius:50%;" alt="Ahmad Nabil Fiddin"/><br />
+        <sub><b>NabilbilFxD</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 ## License
 
